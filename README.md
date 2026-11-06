@@ -9,5 +9,6 @@ Estudio Ingeniería en IA y me interesa el **procesamiento de lenguaje natural**
 * [Mis comandos de terminal y Git (Práctica 4))](notas/comandos.md)
 
 ## Mi proyecto
-[Repositortodel equipo 2](
+[Repositortodel equipo 2](https://github.com/Boa2671/in1050-2-tutor)
 
+Cuenta de Github: [angelassev00](https://github.com/angelassev00)
